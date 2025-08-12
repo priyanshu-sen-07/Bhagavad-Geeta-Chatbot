@@ -1,3 +1,5 @@
+![Bhagavad Gita Chatbot Banner](geetaChatbot_background_image.jpg)
+
 # 🌺 Srimad Bhagavad Geeta AI Chatbot 🌺
 *"When the mind is at peace, the Self speaks." – Bhagavad Gita*
 
