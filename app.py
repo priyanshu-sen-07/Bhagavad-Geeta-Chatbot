@@ -8,7 +8,7 @@ from langchain.prompts import PromptTemplate
 from langchain.chat_models import init_chat_model
 
 # Get API key if not set
-os.environ["GOOGLE_API_KEY"] = "AIzaSyBHeZdRZa3GCDQkimquTODYIe7chpkCUOQ"
+os.environ["GOOGLE_API_KEY"] = "Enter_your_GOOGLE_API_KEY"
 
 
 # Set Streamlit page config
@@ -123,4 +123,5 @@ for msg in st.session_state.chat_history:
     if msg["role"] == "user":
         st.chat_message("user").markdown(msg["content"])
     else:
+
         st.chat_message("assistant").markdown(msg["content"])
