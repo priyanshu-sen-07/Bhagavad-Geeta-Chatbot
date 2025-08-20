@@ -33,7 +33,7 @@ Built using **Google Gemini 2.5 Flash LLM** for intelligent responses and **Hugg
 | **Language**          | Python |
 
 <p align="center">
-  <img src="84b34e29-20e4-4ead-8538-70131bc6302f.png" alt="Geeta Chatbot Banner" width="800"/>
+  <img src="Screenshot 2025-08-20 091908.png" alt="Geeta Chatbot Banner" width="800"/>
 </p>
 
 ---
