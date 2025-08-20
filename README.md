@@ -36,6 +36,7 @@ Built using **Google Gemini 2.5 Flash LLM** for intelligent responses and **Hugg
   <img src="Screenshot 2025-08-20 091908.png" alt="Geeta Chatbot Banner" width="800"/>
 </p>
 
+
 ---
 
 
