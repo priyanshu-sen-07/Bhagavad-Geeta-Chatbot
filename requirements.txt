@@ -2,12 +2,13 @@ langchain
 langchain_community
 langchain_text_splitters
 langchain-huggingface
-chromadb
+chromadb[all]
 pypdf
 pymupdf
 streamlit
 sentence-transformers
 torch
+
 
 
 
