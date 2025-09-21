@@ -6,5 +6,9 @@ chromadb
 pypdf
 pymupdf
 streamlit
+sentence-transformers
+torch
+
+
 
 
