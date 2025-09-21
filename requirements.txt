@@ -1,9 +1,10 @@
 langchain
 langchain_community
 langchain_text_splitters
-langchain_hugging
+langchain-huggingface
 chromadb
 pypdf
 pymupdf
 streamlit
+
 
